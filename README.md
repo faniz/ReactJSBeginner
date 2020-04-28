@@ -1,2 +1,0 @@
-# ReactJSBeginner
-Created with CodeSandbox
